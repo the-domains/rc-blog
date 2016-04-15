@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hey, Followers! Long time no see! Sorry, I had a lot of work... That's the a lame excuse but I don't have another right now. Will think of a good one for the next time! \uD83D\uDE42"
-datePublished: '2016-04-15T15:55:02.816Z'
-dateModified: '2016-04-15T15:43:48.587Z'
+datePublished: '2016-04-15T16:00:07.142Z'
+dateModified: '2016-04-15T16:00:00.451Z'
 title: Desktop Computer Build – PART 2
 author: []
 sourcePath: _posts/2016-04-15-desktop-computer-build-part-2.md
