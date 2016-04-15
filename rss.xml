@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's blog]]></description>
         <link>http://blog.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 11:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 14:02:24 GMT</lastBuildDate>
         <atom:link href="http://blog.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.romainclaret.com/about/index.html</link>
             <guid isPermaLink="false">00c56305-67f7-4676-b75e-2039066f9bd3</guid>
             <pubDate>Fri, 15 Apr 2016 11:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Desktop Computer, my decision to build one]]></title>
+            <description><![CDATA[<article><h1>New Desktop Computer, my decision to build one</h1><p>Hello Follower!</p></article>]]></description>
+            <link>http://blog.romainclaret.com/new-desktop-computer-my-decision-to-build-one/index.html</link>
+            <guid isPermaLink="false">59dd2b26-5cd5-40a4-b7b7-a28321e86521</guid>
+            <pubDate>Fri, 15 Apr 2016 14:02:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
