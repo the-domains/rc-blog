@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's blog]]></description>
         <link>http://blog.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 15:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 15:55:03 GMT</lastBuildDate>
         <atom:link href="http://blog.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.romainclaret.com/about/index.html</link>
             <guid isPermaLink="false">00c56305-67f7-4676-b75e-2039066f9bd3</guid>
             <pubDate>Fri, 15 Apr 2016 11:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Desktop Computer Build – PART 2]]></title>
+            <description><![CDATA[<article><h1>Desktop Computer Build – PART 2</h1><p>Hey, Followers! Long time no see! Sorry, I had a lot of work... That's the a lame excuse but I don't have another right now. Will think of a good one for the next time! 🙂</p></article>]]></description>
+            <link>http://blog.romainclaret.com/desktop-computer-build-part-2/index.html</link>
+            <guid isPermaLink="false">8806b22d-9931-4b2b-ba82-efb2cc5617f1</guid>
+            <pubDate>Fri, 15 Apr 2016 15:55:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Giving life to Tower with Dr Power + AX1500i]]></title>
@@ -26,13 +33,6 @@
             <link>http://blog.romainclaret.com/desktop-computer-build-part-1/index.html</link>
             <guid isPermaLink="false">c6943494-81a9-4ad2-ab36-054731c23c34</guid>
             <pubDate>Fri, 15 Apr 2016 15:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desktop Computer Build – PART 2]]></title>
-            <description><![CDATA[<article><h1>Desktop Computer Build – PART 2</h1><p>Hey, Followers! Long time no see! Sorry, I had a lot of work... That's the a lame excuse but I don't have another right now. Will think of a good one for the next time! 🙂</p></article>]]></description>
-            <link>http://blog.romainclaret.com/desktop-computer-build-part-2/index.html</link>
-            <guid isPermaLink="false">8806b22d-9931-4b2b-ba82-efb2cc5617f1</guid>
-            <pubDate>Fri, 15 Apr 2016 15:10:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Desktop Computer, my decision to build one]]></title>
