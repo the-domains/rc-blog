@@ -6,42 +6,39 @@ inLanguage: null
 starred: false
 keywords: []
 description: "For some weeks now, I am planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies."
-datePublished: '2016-04-15T14:26:07.358Z'
-dateModified: '2016-04-15T14:25:44.722Z'
+datePublished: '2016-04-15T14:33:50.769Z'
+dateModified: '2016-04-15T14:33:40.056Z'
 title: Desktop Computer Build - PART 1
 author: []
+sourcePath: _posts/2016-04-15-desktop-computer-build-part-1.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-desktop-computer-build-part-1.md
-published: true
 url: desktop-computer-build-part-1/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5688572-f715-447b-9407-8c9948501b60.png)
+
 For some weeks now, I am planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies.
 
 After a lot of hours of research and talking with my friends, I finally decided for the tower.
 
 I was mixed between 5 models. I knew that I needed a tower that could handle an ATX or/and an E-ATX.
 
-* [Cooler Master Storm Stryker][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/136a10c4-f34e-4279-9991-be099c1ed940.jpg)
+[Cooler Master Storm Stryker][0]
 
-* [Level 10 GT Snow Edition by Thermaltake][1]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/451bd9a0f30babed80c72fcd2d6e9b091caa463a.jpg)
+[Level 10 GT Snow Edition by Thermaltake][1]
 
-* [Cooler Master HAF X][2]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/23e13712-72e8-4a0f-ad26-aed11156c4a0.jpg)
+[Cooler Master HAF X][2]
 
-* [NZXT H440][3]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dc8e092-52a8-4965-860b-22e2b60f598d.png)
+[NZXT H440][3]
 
-* [In Win 904 Plus][4]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2edd0c53-29e6-4dd7-952c-8e761b184fc4.jpg)
+[In Win 904 Plus][4]
 
 In the end, my love went mainly for [Level 10 GT Snow Edition by Thermaltake][1], then I bought it on my favorite online reseller.
 
