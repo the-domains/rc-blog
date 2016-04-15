@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Romain's blog]]></title>
+        <description><![CDATA[Romain's blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 11:11:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Bello! I have been the author of MyNeotopia, for some time now, and I wanted to make a blog where I could share stuff that matters to me, in a more personal level... I think it's important for my readers and myself to not to mix my hobbies and my life goal.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12146b3e-eedc-467b-829f-79c6d95cc2e8.jpg"></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">00c56305-67f7-4676-b75e-2039066f9bd3</guid>
+            <pubDate>Fri, 15 Apr 2016 11:11:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
