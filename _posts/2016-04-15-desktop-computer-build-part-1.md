@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "For some weeks now, I am planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies."
-datePublished: '2016-04-15T14:54:45.887Z'
-dateModified: '2016-04-15T14:54:43.023Z'
+description: "For some weeks now, I have been planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies."
+datePublished: '2016-04-15T15:07:25.398Z'
+dateModified: '2016-04-15T15:07:16.438Z'
 title: Desktop Computer Build - PART 1
 author: []
 sourcePath: _posts/2016-04-15-desktop-computer-build-part-1.md
@@ -22,7 +22,7 @@ url: desktop-computer-build-part-1/index.html
 _type: Article
 
 ---
-For some weeks now, I am planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies.
+Bello Followers! For some weeks now, I have been planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies.
 
 After a lot of hours of research and talking with my friends, I finally decided for the tower.
 
