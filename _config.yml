@@ -1,0 +1,29 @@
+name: RC Blog
+favicon: null
+layout_spectrum: 0.21312432223930955
+typography_spectrum: 0.682583722518757
+title: "Romain's blog"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8211701752152294
+  lightness: 0.8286483145784587
+  saturation: 0.6736126604955643
+  rhythmicContrast: 0.22233097604475915
+purpose: []
