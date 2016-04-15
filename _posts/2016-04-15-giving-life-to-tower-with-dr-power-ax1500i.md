@@ -17,8 +17,8 @@ keywords:
   - lukebryanvevo
   - arianagrandevevo
 description: "You can find the whole story on Romain's Blog at My Neotopia: http://myneotopia.com/2016/01/desktop-computer-build-part-2/"
-datePublished: '2016-04-15T15:50:45.140Z'
-dateModified: '2016-04-15T15:50:33.231Z'
+datePublished: '2016-04-15T15:52:05.778Z'
+dateModified: '2016-04-15T15:52:05.232Z'
 author:
   - name: Rocla
     url: 'https://www.youtube.com/user/roclaweb'
