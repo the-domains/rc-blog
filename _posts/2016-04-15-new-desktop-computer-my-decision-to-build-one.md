@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hello Follower!'
-datePublished: '2016-04-15T14:02:11.100Z'
-dateModified: '2016-04-15T14:02:01.002Z'
+datePublished: '2016-04-15T14:04:27.856Z'
+dateModified: '2016-04-15T14:04:22.378Z'
 title: 'New Desktop Computer, my decision to build one'
 author: []
+sourcePath: _posts/2016-04-15-new-desktop-computer-my-decision-to-build-one.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-new-desktop-computer-my-decision-to-build-one.md
-published: true
 url: new-desktop-computer-my-decision-to-build-one/index.html
 _type: Article
 
