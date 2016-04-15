@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's blog]]></description>
         <link>http://blog.romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 15:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 15:49:47 GMT</lastBuildDate>
         <atom:link href="http://blog.romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.romainclaret.com/about/index.html</link>
             <guid isPermaLink="false">00c56305-67f7-4676-b75e-2039066f9bd3</guid>
             <pubDate>Fri, 15 Apr 2016 11:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giving life to Tower with Dr Power + AX1500i]]></title>
+            <description><![CDATA[<article><h1>Giving life to Tower with Dr Power + AX1500i</h1><p>You can find the whole story on Romain's Blog at My Neotopia: http://myneotopia.com/2016/01/desktop-computer-build-part-2/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78b3b8d581873c595dbeadc5b8e83aee800d43c6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Q7tuJX7l8LI</link>
+            <guid isPermaLink="false">419d40b2-e64a-4183-bde8-7a1cd4ff938c</guid>
+            <pubDate>Fri, 15 Apr 2016 15:49:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Desktop Computer Build - PART 1]]></title>
