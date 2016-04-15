@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "For some weeks now, I am planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies."
-datePublished: '2016-04-15T14:33:50.769Z'
-dateModified: '2016-04-15T14:33:40.056Z'
+datePublished: '2016-04-15T14:37:58.289Z'
+dateModified: '2016-04-15T14:37:53.405Z'
 title: Desktop Computer Build - PART 1
 author: []
 sourcePath: _posts/2016-04-15-desktop-computer-build-part-1.md
@@ -31,8 +31,10 @@ After a lot of hours of research and talking with my friends, I finally decided 
 I was mixed between 5 models. I knew that I needed a tower that could handle an ATX or/and an E-ATX.
 
 [Cooler Master Storm Stryker][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53fccb98-2eff-464c-a3ab-282381f93bd6.jpg)
 
 [Level 10 GT Snow Edition by Thermaltake][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e4df3ed-6a61-409f-b9b4-5fb860244232.jpg)
 
 [Cooler Master HAF X][2]
 
