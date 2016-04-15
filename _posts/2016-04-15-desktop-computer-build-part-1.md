@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "For some weeks now, I have been planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies."
-datePublished: '2016-04-15T15:07:25.398Z'
-dateModified: '2016-04-15T15:07:16.438Z'
+description: "Bello Followers!\_For some weeks now, I have been planning to build a Computer. I had to think about a lot about the configuration and the design. It ended up that I will take my time for building it because I won't have much time to use it anyway until the end of my studies."
+datePublished: '2016-04-15T15:19:11.364Z'
+dateModified: '2016-04-15T15:18:40.771Z'
 title: Desktop Computer Build - PART 1
 author: []
 sourcePath: _posts/2016-04-15-desktop-computer-build-part-1.md
